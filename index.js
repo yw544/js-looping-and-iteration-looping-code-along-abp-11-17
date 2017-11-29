@@ -1,9 +1,9 @@
 // Code your solutions in this file
-function printBadges(a)
+function printBadges(aaa)
 {
-  for (let i = 0; i < a.length; i++)
+  for (let i = 0; i < aaa.length; i++)
 {
-  console.log("welcome, ${a[i]}, you are #${i +1}.")
+  console.log("Welcome, ${a[i]}! You are employee #${i+1}.");
 }
-
+return aaa
 }
